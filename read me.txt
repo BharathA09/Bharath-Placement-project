@@ -1,0 +1,40 @@
+# Employment Management System
+
+## 📝 Overview
+The **Employment Management System** is a web application designed to manage employee information efficiently.  
+It allows users to add, update, view, and delete employee records through a simple and interactive interface.
+
+This project is built using **React (frontend)**, **Spring Boot (backend)**, and **MongoDB (database)**.
+
+---
+
+## ⚙️ Features
+- Add new employees with details.
+- View all employee records.
+- Edit existing employee information.
+- Delete employees.
+- Simple and user-friendly interface.
+
+---
+
+## 🧩 Modules
+1. **Employee Management Module** – Handles employee data operations (CRUD).
+2. **User Interface Module** – Provides a responsive and easy-to-use frontend.
+3. **Database Module** – Stores employee details securely using MongoDB.
+4. **Backend API Module** – Connects frontend and database using Spring Boot.
+
+---
+
+## 🖥️ Technologies Used
+- **Frontend:** React.js, Vite, JavaScript, HTML, CSS  
+- **Backend:** Java, Spring Boot  
+- **Database:** MongoDB  
+- **Tools:** Node.js, NPM, VS Code, Postman
+
+---
+
+## 💻 Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/EmploymentManagementSystem.git
